@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi There, I'm Ruan Ferreira 👋
 
 - 🔭 I’m currently working as Software Engineer [@Lynx S.p.A.](https://www.linkedin.com/company/lynx-spa/about/)
-- 🌱 I’m learning about Node Js, React, Flutter, Machine Learning and Data Science
+- 🌱 I’m learning about .Net Core, Microservice, Node Js, React, Flutter, Machine Learning and Data Science
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
 - 💬 Ask me about `[React, Javascript, Node Js, .Net]` 
 - 😄 Pronouns: Him/His
