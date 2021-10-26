@@ -33,6 +33,14 @@ Here are some ideas to get you started:
   <img align="center" alt="Ruan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
 </div>
 
-[![GitHub Followers](https://img.shields.io/github/followers/ruan4f?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/ruan4f)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/ruan-ferreira-b27a7568/)
-[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/RuanFSilva)
+<div>   
+  
+  <a href="https://www.facebook.com/ruanferreiradasilva/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
+  <a href="https://www.facebook.com/ruanferreiradasilva/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  
+  <a href="https://instagram.com/ruanferreiras" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:ruan4f@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ruan-ferreira-b27a7568" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <!--
+  ![Snake animation](https://github.com/ruan4f/ruan4f/blob/output/github-contribution-grid-snake.svg)
+ -->
+</div>
