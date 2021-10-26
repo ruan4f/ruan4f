@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m learning about .Net Core, Microservice, Node Js, React, Flutter, Machine Learning and Data Science
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
 - 💬 Ask me about `[React, Javascript, Node Js, .Net]` 
-- 😄 Pronouns: Him/His
 - ⚡ Fun fact: I have over 1000 mangas but I haven't read them all.
 
 <div align="center">
