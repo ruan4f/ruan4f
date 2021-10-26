@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I have over 1000 mangas but I haven't read them all.
 
-![Otacilio's github stats](https://github-readme-stats.vercel.app/api?username=ruan4f&show_icons=true&theme=radical)
+![Ruan's github stats](https://github-readme-stats.vercel.app/api?username=ruan4f&show_icons=true&theme=radical)
+
+[![Ruan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruan4f&layout=compact)](https://github.com/ruan4f)
+
 
 [![GitHub Followers](https://img.shields.io/github/followers/ruan4f?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/ruan4f)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/ruan-ferreira-b27a7568/)
