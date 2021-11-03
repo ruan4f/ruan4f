@@ -20,15 +20,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about `[React, Javascript, Node Js, .Net]` 
 - ⚡ Fun fact: I have over 1000 mangas but I haven't read them all.
 
-<div>
+<div align="center">
   <a href="https://github.com/ruan4f">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruan4f&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan4f&layout=compact&langs_count=7&theme=radical&include_all_commits=true"/>  
 </div>
 
-<div>  
+<div align="center">  
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ruan4f&theme=radical&date_format=j%2Fn%5B%2FY%5D" alt="ruan4f" />
 </div>
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ruan4f&theme=redical)  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
