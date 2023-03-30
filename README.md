@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m learning about .Net Core, Microservice, Node Js, React, Flutter, Machine Learning and Data Science
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
 - 💬 Ask me about `[React, Javascript, Node Js, .Net]` 
-- ⚡ Fun fact: I have over 1400 mangas and 700 Comics but I haven't read them all.
+- ⚡ Fun fact: I have over 1500 mangas and 800 Comics but I haven't read them all.
 
 # Skills
 <div style="display: inline_block"><br>
