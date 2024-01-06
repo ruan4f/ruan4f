@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 # Hi There, I'm Ruan Ferreira 👋
 
 - 🔭 I’m currently working as System Analyst [@Lynx S.p.A.](https://www.linkedin.com/company/lynx-spa/about/)
-- 🌱 I’m learning about .Net Core, Microservice, Node Js, React, Flutter, Machine Learning and Data Science
+- 🌱 I’m learning about .Net Core, Kotlin, Android, Microservice, Node Js, React, Flutter, Machine Learning and Data Science
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
 - 💬 Ask me about `[React, Javascript, Node Js, .Net]` 
 - ⚡ Fun fact: I have over 1500 mangas and 800 Comics but I haven't read them all.
+- 🌱 I'm an enthusiast in 3D modeling and 3D printing
 
 # Skills
 <div style="display: inline_block"><br>
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Ruan-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Ruan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ruan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Ruan-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 </div>
 
 ##
@@ -42,7 +44,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/ruan4f/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
   <a href="https://www.facebook.com/ruanferreiradasilva/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  
   <a href="https://instagram.com/ruanferreiras" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:ruan4f@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:ruan4f@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ruan-ferreira-b27a7568" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -58,7 +60,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan4f&layout=compact&langs_count=7&theme=radical&include_all_commits=true"/>  
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ruan4f&theme=redical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ruan4f&theme=dracula)  
   
 ##
 ![Snake animation](https://github.com/ruan4f/ruan4f/blob/output/github-contribution-grid-snake.svg) 
